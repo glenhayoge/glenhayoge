@@ -1,7 +1,7 @@
 ##  Web App Developer (Python/JavaScript).
 Hi, I’m Glen. I am a Web/App Developer from Papua New Guinea 🇵🇬.
 
-I play with techs at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out my personal blog at <a href="https://glenh.me">glenh.me</a>.
+I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out my personal dev blog at <a href="https://glenh.me">glenh.me</a>.
 
 ## Key Skills & Strenghts
 Frontend:
