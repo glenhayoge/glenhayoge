@@ -1,4 +1,5 @@
-Hi. I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
+###  Web App Developer.Python & JavaScript stacks.
+Hi, I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
 
 I work at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out <a href="https://glenh.me">glenh.me</a>.
 
