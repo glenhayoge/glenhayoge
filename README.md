@@ -20,6 +20,7 @@ Backend:
 * Firebase/Firestore
 * NextJS
 * ExpressJS
+* NodeJS
 
 Database:
 * MySQL
