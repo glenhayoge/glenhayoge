@@ -4,6 +4,8 @@ Hi, I’m Glen. I am a Full Stack Web/App Developer from Papua New Guinea 🇵�
 
 I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out my personal dev blog at <a href="https://glenh.me">glenh.me</a>.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glenhayoge)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Key Skills & Strenghts
 Frontend:
 * HTML
