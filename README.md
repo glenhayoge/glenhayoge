@@ -1,4 +1,4 @@
-![7884](https://user-images.githubusercontent.com/10877530/88129157-b9676b00-cc1a-11ea-9354-3fd5f1fff2ce.jpg)
+![glen_banner_github](https://user-images.githubusercontent.com/10877530/88536103-88d66580-d04e-11ea-9af0-24aff7e2467e.jpg)
 ##  Web App Developer (Python/JavaScript).
 Hi, I’m Glen. I am a Full Stack Web/App Developer from Papua New Guinea 🇵🇬.
 
