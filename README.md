@@ -4,38 +4,10 @@ Hi, I’m Glen. I am a Full Stack Web/App Developer from Papua New Guinea 🇵�
 
 I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out my personal dev blog at <a href="https://glenh.me">glenh.me</a>.
 
+![Key-Skills](https://user-images.githubusercontent.com/10877530/88533210-452d2d00-d049-11ea-9283-924255ddf09a.jpg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenhayoge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Key Skills & Strenghts
-Frontend:
-* HTML
-* CSS
-* JavaScript
-* BootStrap
-
-Frontend Frameworks:
-* Angular
-* Vue
-* React
-
-Backend:
-* Python/Django/Flask
-* Firebase/Firestore
-* NextJS
-* ExpressJS
-* NodeJS
-
-Database:
-* MySQL
-* PostgreSQL
-* SQL
-
-Testing:
-* TravisCI
-* Selenium with Python
-
-Container:
-* Docker
 
 
 
