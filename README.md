@@ -1,8 +1,8 @@
 ![glen_banner_github](https://user-images.githubusercontent.com/10877530/88536103-88d66580-d04e-11ea-9af0-24aff7e2467e.jpg)
-##  Web App Developer (Python/JavaScript).
-Hi, I’m Glen. I am a Web/App Developer from Papua New Guinea 🇵🇬.
+##  Software Developer (Python/JavaScript).
+Hi, I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
 
-I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as a Web/App Developer. For more information about me, check out my personal dev blog at <a href="https://glenh.me">glenh.me</a>.
+I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as a Software Developer. For more information about me and the stuff that I do, check out my personal dev blog at <a href="https://glenh.me">glenh.me</a>.
 
 ![key_skils](https://user-images.githubusercontent.com/10877530/88534534-a1914c00-d04b-11ea-973d-8de478e79189.jpg)
 
