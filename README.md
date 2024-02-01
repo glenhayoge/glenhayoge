@@ -1,4 +1,4 @@
-![glen_banner_github](https://user-images.githubusercontent.com/10877530/glens_banner.jpeg)
+![glens_banner](https://github.com/glenhayoge/glenhayoge/assets/10877530/b3aa9ec3-5d4e-40b7-bed1-c9d6c8cac27e)
 ##  Software Developer (Python/JavaScript).
 Hi, I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
 
