@@ -6,7 +6,7 @@ See my country rank as an active Github user out of 344 users in Papua New Guine
 
 I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as Software Developer. For more information about me and the stuff that I do, check out my personal website at <a href="https://glensea.com">glensea.com</a>.
 
-![key_skils](https://user-images.githubusercontent.com/10877530/88534534-a1914c00-d04b-11ea-973d-8de478e79189.jpg)
+<img width="304" alt="Screenshot 2024-02-02 at 02 57 29" src="https://github.com/glenhayoge/glenhayoge/assets/10877530/1f7a545e-33e1-4bd6-bacc-4c27f0611111">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glenhayoge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
