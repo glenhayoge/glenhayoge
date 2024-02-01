@@ -1,4 +1,4 @@
-![glen_banner_github](https://user-images.githubusercontent.com/glens_banner.jpeg)
+![glen_banner_github](https://user-images.githubusercontent.com/10877530/glens_banner.jpeg)
 ##  Software Developer (Python/JavaScript).
 Hi, I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
 
