@@ -2,7 +2,7 @@
 ##  Software Developer (Python/JavaScript).
 Hi, I’m Glen. I am a Software Developer from Papua New Guinea 🇵🇬.
 
-See my country rank as an active Github user out of 344 users in Papua New Guinea 👉🏿 [![committers.top badge](https://user-badge.committers.top/papua_new_guinea_private/glenhayoge.svg)](https://user-badge.committers.top/papua_new_guinea_private/glenhayoge)
+See my country rank as an active Github user out of around 344 users in Papua New Guinea 👉🏿 [![committers.top badge](https://user-badge.committers.top/papua_new_guinea_private/glenhayoge.svg)](https://user-badge.committers.top/papua_new_guinea_private/glenhayoge)
 
 I play with dev techs at <a href="http://dzagoo.com">Dzagoo</a> as Software Developer. For more information about me and the stuff that I do, check out my personal website at <a href="https://glensea.com">glensea.com</a>.
 
